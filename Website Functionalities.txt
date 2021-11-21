@@ -1,0 +1,24 @@
+1. Data base
+	1. schema
+	2. values
+
+2. View 
+    Users:-
+	1. login 
+	2. Signup
+	3. logout
+	4. items(Products Gallery)
+	5. item (Product Detail)
+	6. Checkout (items buy )
+	7. sucessful order alert
+	8. Payment page (Total )
+
+    Admin:-
+	1. Login
+	2. Logout
+	3. AddItems
+	4. Views Items
+	5. Edit (Edit/Delete) Items
+	6. Views users
+	7. Edit (Edit/Delete) users
+	8. Auditing Page
